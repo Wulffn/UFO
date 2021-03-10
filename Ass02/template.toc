@@ -1,0 +1,28 @@
+\babel@toc {danish}{}
+\contentsline {section}{\numberline {1}Introduktion}{3}%
+\contentsline {section}{\numberline {2}Grafik}{3}%
+\contentsline {subsection}{\numberline {2.1}Caption in images}{3}%
+\contentsline {subsection}{\numberline {2.2}Images side by side}{4}%
+\contentsline {section}{\numberline {3}Referencer til billeder}{5}%
+\contentsline {section}{\numberline {4}Section med tal}{5}%
+\contentsline {subsection}{\numberline {4.1}SubSection med tal}{5}%
+\contentsline {subsubsection}{\numberline {4.1.1}SubSubSection med tal}{5}%
+\contentsline {subsection}{\numberline {4.2}SubSection med tal}{5}%
+\contentsline {section}{\numberline {5}Section med tal}{5}%
+\contentsline {section}{\numberline {6}Paragraph}{5}%
+\contentsline {paragraph}{Dette er en paragraph}{5}%
+\contentsline {subparagraph}{Dette er en sub paragraph}{5}%
+\contentsline {section}{\numberline {7}Lister}{6}%
+\contentsline {subsection}{\numberline {7.1}Bullet points}{6}%
+\contentsline {subsection}{\numberline {7.2}Alternative bullet points}{6}%
+\contentsline {subsection}{\numberline {7.3}Enumererede lister}{6}%
+\contentsline {section}{\numberline {8}Tabeller}{7}%
+\contentsline {section}{\numberline {9}Reference til tabel}{7}%
+\contentsline {section}{\numberline {10}Code listing}{7}%
+\contentsline {section}{\numberline {11}Math}{8}%
+\contentsline {subsection}{\numberline {11.1}Inline equations}{8}%
+\contentsline {subsection}{\numberline {11.2}Display equations}{8}%
+\contentsline {subsection}{\numberline {11.3}Typer}{8}%
+\contentsline {subsubsection}{\numberline {11.3.1}Fractions}{8}%
+\contentsline {subsubsection}{\numberline {11.3.2}Powers}{8}%
+\contentsline {section}{\numberline {12}Litteratur}{9}%
