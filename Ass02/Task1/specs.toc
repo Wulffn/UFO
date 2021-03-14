@@ -1,0 +1,11 @@
+\babel@toc {danish}{}
+\contentsline {section}{\numberline {1}Krav}{2}%
+\contentsline {subsection}{\numberline {1.1}Overordnede krav}{2}%
+\contentsline {subsubsection}{\numberline {1.1.1}Rapportens omfang}{2}%
+\contentsline {subsubsection}{\numberline {1.1.2}Sprog:}{2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Forslag til sessioner i rapport}{2}%
+\contentsline {section}{\numberline {2}Læringsmål}{3}%
+\contentsline {subsubsection}{\numberline {2.0.1}Viden}{3}%
+\contentsline {subsubsection}{\numberline {2.0.2}Færdigheder}{3}%
+\contentsline {subsubsection}{\numberline {2.0.3}Kompetencer}{4}%
+\contentsline {section}{\numberline {3}Litteratur}{5}%
